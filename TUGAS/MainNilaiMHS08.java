@@ -41,7 +41,6 @@ public class MainNilaiMHS08 {
             return rightMin;
         }
     }
-
     double rataRataUASBF() {
         double total = 0;
         for (int i = 0; i < dataMahasiswa.length; i++) {

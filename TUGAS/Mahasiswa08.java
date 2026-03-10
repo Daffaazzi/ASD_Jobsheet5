@@ -12,5 +12,6 @@ public class Mahasiswa08 {
         this.tahunMasuk = tahunMasuk;
         this.nilaiUTS   = nilaiUTS;
         this.nilaiUAS   = nilaiUAS;
+        
     } 
 }

@@ -22,7 +22,6 @@ public class DATAMahasiswa08 {
                     m.nama, m.nim, m.tahunMasuk, m.nilaiUTS, m.nilaiUAS);
         }
         System.out.println("=================================================");
-
         MainNilaiMHS08 nilai = new MainNilaiMHS08();
         nilai.Nilai(data);
         int n = data.length;
